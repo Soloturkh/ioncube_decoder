@@ -1,2 +1,3 @@
-# Help To Work
-Please Read This https://github.com/tahaghafuri/ioncube_decoder/issues/1
+# Note
+I'm Updating And Fixing The Decoder!<br>
+Please Report Bugs And Enhanements!
